@@ -1,0 +1,80 @@
+.flex-container {
+    width: 800px;
+    display: flex;
+    margin-top: 150px;
+    margin-left: 250px;
+    height: 400px;
+    
+    
+    
+}
+
+.item-1 {
+    max-width: 190px;
+    padding: 20px;
+    background-color: hsl(31, 77%, 52%);
+    font-size: 15px;
+}
+
+.item-2 {
+    max-width: 190px;
+    padding: 20px;
+    background-color: hsl(184, 100%, 22%);
+    font-size: 15px;
+}
+
+.item-3 {
+    max-width: 190px;
+    padding: 20px;
+    background-color: hsl(179, 100%, 13%);
+    font-size: 15px;
+}
+
+button {
+    border-radius: 15px;
+    background-color: white;
+    height: 30px;
+    text-align: center;
+    font-family: "Lexend Deca";
+    font-weight: 400;
+}
+
+h2 {
+    font-family: 'Big Shoulders Display';
+    font-weight: 400;
+    color: white;
+    padding-left: 15px;
+}
+
+#button-1 {
+    margin-left: 40px;
+    width: 90px;
+    color: hsl(31, 77%, 52%);
+   
+    
+}
+
+#button-2 {
+    margin-left: 40px;
+    width: 90px;
+    color: hsl(184, 100%, 22%);
+}
+
+#button-3 {
+    margin-left: 50px;
+    margin-bottom: 20px;
+    width: 90px;
+    color: hsl(179, 100%, 13%);
+    
+}
+
+p {
+    font-family: "Lexend Deca";
+    font-size: small;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-weight: 700px;
+    padding-bottom: 80px;
+    line-height: 22px;
+    margin-left: 15px;
+    
+}
